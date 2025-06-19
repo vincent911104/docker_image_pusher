@@ -1,6 +1,7 @@
 nginx
 mysql:8.0.37
 redis
+RabbitMQ
 nacos/nacos-server:v2.5.1
 wurstmeister/zookeeper
 wurstmeister/kafka
